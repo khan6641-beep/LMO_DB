@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "LMO Confined Field Ecological Database"
+version: "8.0"
+date-released: "2026-11-16"
+license: MIT
+authors:
+  - family-names: Han
+    given-names: Sung Min
+    affiliation: "Department of Native Plant Ecology, National Institute of Ecology, Republic of Korea"
+  - family-names: Chun
+    given-names: Seong-Jun
+    affiliation: "Division of Ecological Threat Management, National Institute of Ecology, Republic of Korea"
+  - family-names: Lee
+    given-names: Jun-Woo
+    affiliation: "Division of Ecological Threat Management, National Institute of Ecology, Republic of Korea"
+  - family-names: Kim
+    given-names: Jihoon
+    affiliation: "Division of Ecological Threat Management, National Institute of Ecology, Republic of Korea"
+  - family-names: Nam
+    given-names: Kyong-Hee
+    affiliation: "Division of Ecological Threat Management, National Institute of Ecology, Republic of Korea"
